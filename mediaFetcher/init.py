@@ -1,3 +1,9 @@
+"""
+This module intializes and pre-configures system for mediaFetcher's featured functionality.
+
+It checks for any missing system dependencies required and installs them via brew.
+"""
+
 import sys
 # import platform
 import shutil
