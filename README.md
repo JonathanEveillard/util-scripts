@@ -1,4 +1,5 @@
-# A Compiled Collection of scripts ranging from system services to utilities required for development and or simple hobby projects.
+# utils-scripts
+Compiled Collection of scripts ranging from system services to utilities required for development and or simple hobby projects.
 
 ## Current list of scripts
 
