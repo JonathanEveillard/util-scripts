@@ -60,9 +60,7 @@ def checkDependency():
     return missingDependencies
 
 
-def main():
+def start():
     checkDependency()
 
 
-if __name__ == "__main__":
-    main()
