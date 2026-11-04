@@ -6,10 +6,12 @@ Checks that required tools like ffmpeg and Deno are installed first.
 Intended for content you have permission to download.
 """
 
-import init
+import config
+import selection
 
 def main():
-    init.start()
+    config.createFolder()
+    selection.view()
 
 if __name__ == "__main__":
     main();
