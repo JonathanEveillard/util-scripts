@@ -7,6 +7,6 @@ Compiled Collection of scripts ranging from system services to utilities require
 
 Media Fetcher is a utility script allowing users to install media content, with permission, for offline usage.
 
-## [InfraAI](https://github.com/JonathanEveillard/util-scripts/tree/main/InfraAI)
+### [InfraAI](https://github.com/JonathanEveillard/util-scripts/tree/main/InfraAI)
 
 InfraAI is a utility script allowing users to communicate with their self hosted AI models via Ollama anywhere, anytime as long as they have reliable and secured connection to their infrastructure.
